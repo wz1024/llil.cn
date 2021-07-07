@@ -344,6 +344,14 @@ a {
     content: "gitee: @fuzui"
 }
 
+.icon.email {
+    background-image: url(https://cdn.fuzui.net/icon/mail.svg)
+}
+
+.icon.email:after {
+    content: "email: zes@qq.com"
+}
+
 body {
     background-color: #fff
 }
